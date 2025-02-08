@@ -4,7 +4,7 @@ pipeline {
 
 	
 	tools {
-  maven 'm360'
+  maven 'M3'
 }
 	
 	parameters {
